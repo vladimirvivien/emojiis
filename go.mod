@@ -1,3 +1,3 @@
-module github.com/vladimirvivien/emojiis/v2
+module github.com/vladimirvivien/emojiis
 
 go 1.21.6
